@@ -1,4 +1,4 @@
-# COVID_19-Impact-on-Mental-Health
+# COVID_19-Impact-on-Stuent's-Mental-Health
 STA304 (Surveys, Sampling, and Observational Data) Final Group Project
 
 ## Overview
