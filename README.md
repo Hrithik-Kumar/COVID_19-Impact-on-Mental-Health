@@ -7,6 +7,8 @@ STA304 (Surveys, Sampling, and Observational Data) Final Group Project
 - 47 responses were collected from the survey (Small Sample size due to the online learning)
 - Basic Statistical methods (Two Sample Paired T-test) as well as Advanced Method (Principal Component Ananlysis) was used to obtain the results
 
+![Alt text](table1.jpg?raw=true "Title")
+
 
 
 
